@@ -1,4 +1,5 @@
 requests
 xlsxwriter
 pandas
+cython
 numpy
